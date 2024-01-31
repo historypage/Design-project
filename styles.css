@@ -1,0 +1,280 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    color: whitesmoke;
+    background-color: rgb(28, 28, 28);
+}
+
+header {
+    display: inline-block;
+    position: absolute;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+}
+
+a {
+    padding: 15px;
+    border: solid whitesmoke 2px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: small;
+    border-radius: 10px;
+}
+
+.homebuttons {
+    margin-right: 30px;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+#bce500 {
+    margin-right: 170px;
+}
+
+#ce100 {
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+#ce250 {
+    margin-right: 170px;
+}
+
+#ce500 {
+    margin-right: 170px;
+}
+
+#ce1000 {
+    margin-left: -50px;
+    margin-right: 170px;
+}
+
+#ce1250 {
+    margin-right: 170px;
+}
+
+#ce1500 {
+    margin-right: 170px;
+}
+
+#ce1750 {
+    margin-right: 170px;
+}
+
+h1 {
+    display: inline-block;
+    padding-left: 100px;
+    width: fit-content;
+    background-color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+.header {
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    font-family: sans-serif;
+    z-index: 1;
+}
+
+.tdheader {
+    background-color: black;
+}
+
+.historianstable {
+    position: relative;
+    border: white solid 2px;
+    border-collapse: collapse;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.histotd {
+    border: white solid 2px;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.cuneiform {
+    width: 200px;
+    height: auto;
+    background-color: black;
+}
+
+.aboutparagraph {
+    position: relative;
+    margin-top: 200px;
+    font-size: large;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.toptimeline {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 2px whitesmoke solid;
+    border-right: 2px whitesmoke solid;
+    height: fit-content;
+    width: 90%;
+}
+
+.bottomtimeline {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 2px whitesmoke solid;
+    border-left: 2px whitesmoke solid;
+    border-bottom: 2px whitesmoke solid;
+    height: fit-content;
+    width: 90%;
+}
+
+.home {
+    display: inline-block;
+    margin: 50px;
+    width: 300px;
+}
+
+.hero {
+    display: inline-block;
+    float: right;
+    margin-top: 90px;
+    margin-right: 150px;
+    border-radius: 10px;
+    border: solid 2px whitesmoke;
+    width: 200px;
+    height: auto;
+    position: relative;
+}
+
+.hometable {
+    margin-top: 160px;
+    height: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hometable2 {
+    height: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bordermoment {
+    height: 20px;
+    position: relative;
+    border-right: 2px solid whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90.2%;
+    height: fit-content;
+}
+
+#Bruni {
+    position: relative;
+    border-radius: 10px;
+    border: solid 2px whitesmoke;
+    width: 110px;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-bottom: 0;
+}
+
+form {
+    position: relative;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#h2form {
+    position: relative;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#Submit {
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 13px;
+}
+
+#justify {
+    width: 60%;
+    text-align: center;
+    border-radius: 7.5px;
+}
+
+.voltaire {
+    margin-left: 570px;
+    width: 300px;
+    height: auto;
+    border: whitesmoke 2px solid;
+    border-radius: 10px;
+}
+
+#email {
+    border-radius: 7.5px;
+    text-align: center;
+}
+
+#historianform {
+    border-radius: 7.5px;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    margin-top: 100px;
+}
+
+.infop {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.more {
+    position: relative;
+    margin-left: 20px;
+}
+
+.historianimg {
+    width: 350px;
+    height: auto;
+    border: whitesmoke 2px solid;
+    border-radius: 7px;
+    margin-left: 150px;
+}
+
+#Gildas {
+    width: 250px;
+    height: auto;
+    border: solid whitesmoke 2px;
+    border-radius: 7px;
+    margin-left: 150px;
+}
+
+.imgdiv {
+    margin-top: 25px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: right;
+}
